@@ -1,0 +1,30 @@
+.rettangolo{
+	width: 200px;
+	height: 300px;
+	border: 2px solid black;
+}
+
+body {
+	background-color: #686c5e;
+}
+
+h1 { 
+	background-color: #bcff90;
+	font-size: 50px;
+	text-align:center;
+	margin: 0;
+}
+
+table{
+	padding-top: 20px;
+}
+
+footer{
+	position : absolute;
+	bottom: 10px;
+	background-color: #bcff90;
+	font-size: 15 px;
+	display: block;
+	text-align:center;
+	width: 98%;
+}
